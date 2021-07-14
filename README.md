@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nadiya</h1>
-<h3 align="center">She know that her major doesn’t fit in job she looking for, so she made this account for collecting her projects.</h3>
+<h1 align="center">Hi 👋, it's Nadiya</h1>
+<h3 align="center">She know that her major doesn’t fit in job she's looking for, so she made this account for collecting her projects.</h3>
 
 - 🌱 I’m currently learning *Python, Machine learning, Tensor flow, Data science, HTML & CSS*
 
