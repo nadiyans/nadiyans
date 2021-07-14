@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @nadiyans
-- 🌱 I’m currently learning about python, data science, machine learning, and tensorflow.
-- 📫 Reach me on github.com/nadiyans
+<h1 align="center">Hi 👋, I'm Nadiya</h1>
+<h3 align="center">She know that her major doesn’t fit in job she looking for, so she made this account for collecting her projects.</h3>
 
-<!---
-nadiyans/nadiyans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning *Python, Machine learning, Tensor flow, Data science, HTML & CSS*
+
+- 👨‍💻 All of my projects are available at [https://github.com/nadiyans](https://github.com/nadiyans)
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
